@@ -748,11 +748,3 @@ int main(int argc, char *argv[])
     return 0;
 }
 
-
-/*face++:
- *api_key:PMIk03mzHWwfmVvpZbZHE1F7VJLq33lV
- *api_secret:SlbN4vlYKkF_ktEe9vbiKlUrGgWbBlay
- *°Ù¶È:
- *api_key:ZPeMeurnqCo94jbeaY1Q9LBA
- *api_secret:iNHDPABqMq5GoXj2U9BdC9lelweOOZND
- */
